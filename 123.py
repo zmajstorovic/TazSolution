@@ -55,3 +55,4 @@ for edges in root.findall('edge'):
         edgekojitezanima = edges.attrib['id']
 
 print(edgekojitezanima)
+#komentar
